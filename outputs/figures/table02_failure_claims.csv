@@ -1,0 +1,5 @@
+claim
+PR-AUC changed from 0.249 under random validation to 0.254 under temporal deployment (delta +0.005).
+purchase recall changed from 0.558 under random validation to 0.566 under temporal deployment (delta +0.009).
+balanced accuracy changed from 0.607 under random validation to 0.564 under temporal deployment (delta -0.042).
+expected calibration error changed from 0.005 under random validation to 0.076 under temporal deployment (delta +0.070).
