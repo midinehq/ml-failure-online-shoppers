@@ -1,0 +1,8 @@
+- PR-AUC changed from 0.249 under random validation to 0.254 under temporal deployment.
+- After correction, PR-AUC was 0.652 on the same late-year deployment months.
+- purchase recall changed from 0.558 under random validation to 0.566 under temporal deployment.
+- After correction, purchase recall was 0.803 on the same late-year deployment months.
+- balanced accuracy changed from 0.607 under random validation to 0.564 under temporal deployment.
+- After correction, balanced accuracy was 0.745 on the same late-year deployment months.
+- expected calibration error changed from 0.005 under random validation to 0.076 under temporal deployment.
+- After correction, expected calibration error was 0.068 on the same late-year deployment months.
